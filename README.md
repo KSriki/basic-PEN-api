@@ -18,7 +18,7 @@ Tutorial Followed:
 - [PostgreSQL](https://www.postgresql.org/)
 - [Sequelize/Sequelize CLI](https://sequelize.org/)
 
-## Devops Dependencies
+## Dependencies
 
 - [Babel 7](https://babeljs.io/)
     - babel-preset-env, babel-core, babel-cli
@@ -37,3 +37,8 @@ Tutorial Followed:
 - [nodemon](https://nodemon.io/)
     - nodemon
     - automatic refreshing of server based on real-time changes
+- [Sequelize/Sequelize CLI](https://sequelize.org/)
+    - sequelize, sequelize-cli: promise-based Node.js ORM (map code objects to database models)
+    - pg: making the database connection
+    - pg-hstore: for serializing and deserializing JSON into the Postgres hstore key/value pair format
+    - .sequelizerc settings file to determine bootstrapped folder locations
