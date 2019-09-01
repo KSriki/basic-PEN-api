@@ -42,3 +42,8 @@ Tutorial Followed:
     - pg: making the database connection
     - pg-hstore: for serializing and deserializing JSON into the Postgres hstore key/value pair format
     - .sequelizerc settings file to determine bootstrapped folder locations
+
+## Sequelize-cli
+
+1. Setup .sequelizerc file
+2. run sequelize init
