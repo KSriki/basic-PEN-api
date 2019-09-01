@@ -1,0 +1,20 @@
+{
+  "name": "basic-pern-repo",
+  "version": "1.0.0",
+  "description": "Express Node Postgres REST Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSriki/basic-pern-repo.git"
+  },
+  "keywords": [],
+  "author": " <Srikant Kumar Kalaputapu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KSriki/basic-pern-repo/issues"
+  },
+  "homepage": "https://github.com/KSriki/basic-pern-repo#readme"
+}
