@@ -10,7 +10,6 @@ Tutorial Followed:
 
 ## Tech/Frameworks used
 
-- [Babel 7](https://babeljs.io/)
 - [Environment Variables](https://www.npmjs.com/package/dotenv)
 - [Express.js](https://expressjs.com/)
 - [React](https://reactjs.org/)
@@ -19,3 +18,22 @@ Tutorial Followed:
 - [PostgreSQL](https://www.postgresql.org/)
 - [Sequelize/Sequelize CLI](https://sequelize.org/)
 
+## Devops Dependencies
+
+- [Babel 7](https://babeljs.io/)
+    - babel-preset-env, babel-core, babel-cli
+    - used to transpile code for ES6 to ES5 to work on any browser
+    - .babelrc sets env
+- [Express.js](https://expressjs.com/)
+    - basic web framework for Node.js
+- [body-parser](https://www.npmjs.com/package/body-parser)
+    - body-parser
+    - Node.js middleware to parse request bodies - useful for HTTP POST
+    - used to be packaged with Express, now seperate
+    - data in req.body
+- [morgan](https://www.npmjs.com/package/morgan)
+    - morgan
+    - logger middleware
+- [nodemon](https://nodemon.io/)
+    - nodemon
+    - automatic refreshing of server based on real-time changes
