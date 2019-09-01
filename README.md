@@ -1,5 +1,5 @@
-# basic-pern-repo
-Express Node Postgres REST Api
+# basic-pen-api
+Postgres-Express-Node REST Api
 
 ## Author
 [Srikant Kumar Kalaputapu](https://github.com/KSriki)
