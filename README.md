@@ -10,9 +10,7 @@ Tutorial Followed:
 
 ## Tech/Frameworks used
 
-- [Environment Variables](https://www.npmjs.com/package/dotenv)
 - [Express.js](https://expressjs.com/)
-- [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
 - [REST API](https://restfulapi.net/)
 - [PostgreSQL](https://www.postgresql.org/)
